@@ -3,7 +3,7 @@
     <div>
       <Logo />
       <h1 class="title">
-        nuxt-cdk-workshop
+        ILAC Workshop
       </h1>
       <div class="links">
         <a
