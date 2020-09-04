@@ -9,7 +9,7 @@ phases:
   build:
     commands:
       - yarn build
-      - yarn export
+      - yarn generate
 
 artifacts:
   base-directory: ./dist
